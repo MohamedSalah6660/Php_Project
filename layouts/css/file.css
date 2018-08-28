@@ -1,0 +1,97 @@
+body{
+
+	background-color: #	;
+}
+ 
+
+/* Navbar */ 
+
+.navbar{
+
+margin-bottom: 0;
+background-color: #6119d6;
+border: 1px solid #6119d6;
+border-radius: 0px;
+}
+
+
+
+
+.dropdown-menu
+{
+	color: red
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+ .navbar-inverse .navbar-nav>.active>a:focus, 
+ .navbar-inverse .navbar-nav>.active>a:hover
+{
+	background-color: #6119d6;
+
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>.open>a,
+ .navbar-inverse .navbar-nav>.open>a:focus, 
+.navbar-inverse .navbar-nav>.open>a:hover
+{
+	background-color: #133a0e;
+}
+
+.dropdown-menu>li>a, .navbar-right .dropdown-menu{
+	color:white;
+	background-color:#133a0e; 
+}
+
+.main-table tr:first-child td{
+
+background-color: #333;
+color: #FFF;
+
+}
+
+
+/*/*//*************************************/
+
+
+
+.log{
+
+	padding: 10px;
+	font-size: 20px;
+	color: blue;
+	background-color: yellow
+}
+
+.login-page form{
+
+	max-width: 380px;
+	margin: auto;
+}
+
+.login-page form input{
+
+	margin-bottom: 10px;
+}
+
+.login-page .selected{
+
+	color:red;
+}
+
+.login-page h1{
+
+	color :blue;
+}
+
+.login-page h1 span{
+	cursor: pointer;
+}
+
+.login-page .signup{
+	display: none;
+}

@@ -1,0 +1,208 @@
+body{
+
+	background-color: #	;
+}
+
+
+.login{
+
+	width: 350px;
+	margin: 100px auto;
+}
+
+.login input{
+	margin-bottom: 10px;
+}
+
+.logadmin{
+
+	text-align: center;
+}
+
+
+/* Navbar */ 
+
+.navbar{
+
+margin-bottom: 0;
+background-color: #6119d6;
+border: 1px solid #6119d6;
+border-radius: 0px
+}
+
+
+
+
+.dropdown-menu
+{
+	color: red
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+ .navbar-inverse .navbar-nav>.active>a:focus, 
+ .navbar-inverse .navbar-nav>.active>a:hover
+{
+	background-color: #6119d6;
+
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>.open>a,
+ .navbar-inverse .navbar-nav>.open>a:focus, 
+.navbar-inverse .navbar-nav>.open>a:hover
+{
+	background-color: #133a0e;
+}
+
+.dropdown-menu>li>a, .navbar-right .dropdown-menu{
+	color:white;
+	background-color:#133a0e; 
+}
+
+.main-table tr:first-child td{
+
+background-color: #333;
+color: #FFF;
+
+}
+
+
+/* Dashboard*/
+
+
+.home-stats .stat
+{
+
+	background-color: #EEE;
+	border :1px solid #ccc;
+	padding: 20px;
+	font-size: 15px;
+	border-radius: 10px;
+	color:#FFF;
+}
+.home-stats .stat a{
+
+	color: #FFF;
+}
+
+.home-stats .stat a:hover{
+
+text-decoration: none;
+}
+
+.home-stats .stat span{
+
+	display: block;
+	font-size: 60px
+
+}
+
+.latest{
+
+	margin-top: 30px
+}
+.reg{
+
+	padding-top: 0px
+}
+
+.home-stats .stat1{
+
+
+	background-color: #73b26b;
+}
+
+.home-stats .stat2{
+
+
+	background-color: orange;
+}
+
+.home-stats .stat3{
+
+	background-color: #a316aa;
+}
+.home-stats .stat4{
+
+
+	background-color: #3b40a0;
+}
+
+
+
+.activate{
+
+	margin-left: 5px;
+	margin-right: 5px
+}
+
+.latest-users{
+
+	margin-bottom: 0px
+}
+
+.latest-users li{
+	padding: 5px 0px;
+	overflow: hidden;
+}
+
+
+								/* Categories */
+
+
+
+.categories .cat:last-of-type ~ hr{
+
+	display: none;
+}
+
+
+.visibility{
+
+	color: red;
+	font-size: 20px;
+}
+
+.commenting{
+
+	color: blue;
+	font-size: 20px;
+}
+
+.advertises{
+
+	color:green;
+	font-size:20px;
+}
+
+.desc{
+	color:orange;
+	font-size: 25px
+}
+
+.addcategory{
+
+	margin-bottom: 30px;
+	margin-left: 50px
+}
+
+.categories .cat h2{
+
+
+	margin: 0px;
+	cursor:pointer;
+}
+
+
+/* Upload Image9*/
+
+
+.mem{
+
+width: 50px;
+height: 50px
+}
